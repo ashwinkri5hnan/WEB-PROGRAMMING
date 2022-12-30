@@ -1,0 +1,15 @@
+#hd{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:red;
+    background-color: yellow;
+}
+
+p{
+    background-color: #ffc0cb;
+    color:blue;
+}
+.center{
+    text-align: center;
+    color: orange;
+    background-color: blue;
+}
